@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'YouTube',
-			icon: 'youtube',
+			icon: 'square-play',
 			link: 'https://www.youtube.com/?app=desktop&hl=ru',
 		},
 		{
@@ -64,10 +64,9 @@ const CONFIG = {
 			link: 'https://mail.ru/',
 		},
 		{
-			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			id: '3'МЭШ',
+			icon: 'backpack',
+			link: 'https://school.mos.ru/diary/',
 		},
 		{
 			id: '4',
