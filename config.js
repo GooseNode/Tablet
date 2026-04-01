@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Mosru',
-			icon: 'backpack',
-			link: 'https://school.mos.ru/diary',
+			name: 'Jemini',
+			icon: 'brain-circuit',
+			link: 'https://www.google.com/search?q=%D0%BE%D1%82%D0%B2%D0%B5%D1%82+%D0%BE%D1%82+%D0%B8%D0%B8&udm=50&ved=2ahUKEwip6-fh48yTAxXlHBAIHYWQFOgQ0NsOegQIXhAA&aep=10&ntc=1&mstk=AUtExfDroHDqdOeLILOvSPW23m5eYpWirF5AvA24Nozo2CIkVxWYBnuL5x95MNQnqFdY2K3_8ujBfO3B8EtnvYHegiiVXSibElujNsM2j7Ige71loawaqi0b3AsxPhQZYks_-rO59vtGGeE8kg7USb1V8OGRbu4SIL2NbCJvwxvH69homm-PhMRyiiYnx0MTji1gBtW9peuCZxGf9jkJeOHY4cWDZOgyE3ORJWYkjJSp8E96C-Ko0prt_SwIhmYnftZOX1oAIewcZigiV4Bv3F53MU-zP-lo6P3f31esxG_6oH7dWZ0vWvbS14xwYKLSnbxgzoikl2ZemjgIfw&csuir=1',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Max',
+			icon: 'message-circle-more',
+			link: 'https://web.max.ru/',
 		},
 	],
 
