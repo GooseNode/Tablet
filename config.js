@@ -64,7 +64,8 @@ const CONFIG = {
 			link: 'https://mail.ru/',
 		},
 		{
-			id: '3'МЭШ',
+			id: '3',
+			name: 'МЭШ',
 			icon: 'backpack',
 			link: 'https://school.mos.ru/diary/',
 		},
