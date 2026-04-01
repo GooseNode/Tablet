@@ -61,13 +61,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.ru/',
+			link: 'https://mail.ru',
 		},
 		{
 			id: '3',
 			name: 'МЭШ',
 			icon: 'backpack',
-			link: 'https://school.mos.ru/diary/',
+			link: 'https://school.mos.ru/diary',
 		},
 		{
 			id: '4',
