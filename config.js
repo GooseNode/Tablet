@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'fb813be9b6b9d9b3777e2d216d5c6a2b', // Write here your API Key
@@ -65,7 +65,7 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'МЭШ',
+			name: 'Mos',
 			icon: 'backpack',
 			link: 'https://school.mos.ru/diary',
 		},
@@ -77,7 +77,7 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Mosru',
 			icon: 'backpack',
 			link: 'https://school.mos.ru/diary',
 		},
