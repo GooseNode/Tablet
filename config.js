@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'fb813be9b6b9d9b3777e2d216d5c6a2b', // Write here your API Key
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'scribbl',
+			icon: 'signature',
+			link: 'https://skribbl.io/',
 		},
 		{
 			id: '5',
@@ -92,39 +92,39 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'lichess',
+			icon: 'chess-pawn',
+			link: 'https://lichess.org/',
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'twitch',
+			icon: 'monitor-play',
+			link: 'https://www.twitch.tv/',
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'languages',
+			icon: 'languages',
+			link: 'https://translate.yandex.ru/ocr',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'casebatle',
+			icon: 'briefcase',
+			link: 'https://case-battle.wtf/',
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'Xplay',
+			icon: 'gamepad-directional',
+			link: 'https://xplay.gg/ru',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'gartic',
+			icon: 'brush',
+			link: 'https://garticphone.com/',
 		},
 	],
 
