@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Jemini',
 			icon: 'brain-circuit',
-			link: 'https://google.com',
+			link: 'https://www.google.com/search?q=jndtn+jn+bb&mstk=AUtExfBti8zwwoK42MM-y416Gr-0qTLqcT2vT6BRumJ9hljtaXs173i5g4eMti2pGiuj4RWN5L_ql3Jw1kyX7xb6vu6ti7qNDbv4Px62VKxP5GUCi88F1gfx1WTCf-4PSM3-9BBRB_4d-orqUbdwuV40-DUNqXsN_thOy_8D8qGus59S5mqE4n5o6t9RSGvuFXthom8Cwccbh44FDVrM1BiFtsMMkIgKJgsIZpkwS8cAT-RbytUd6jqPN5lx9I5DveYoWVnVt5Bgh9yoI_x9ta_PC-ghNS_y-WP7CTNgyIlstz7yAcLfuTVD-wkwGwB-n6OoGf72rqtyvCO0Yg&csuir=1&udm=50&aioh=3#aof=1',
 		},
 		{
 			id: '6',
@@ -106,7 +106,7 @@ const CONFIG = {
 			id: '3',
 			name: 'languages',
 			icon: 'languages',
-			link: 'https://yandex.ru',
+			link: 'https://translate.yandex.ru/ocr',
 		},
 		{
 			id: '4',
